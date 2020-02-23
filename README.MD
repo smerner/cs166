@@ -1,1 +1,5 @@
-CS166 class
+This repo includes coursework from CS166, a modeling, and simulation course that applies advanced modeling techniques (cellular automata, network concepts from graph theory, and Monte Carlo simulations) to the analysis and prediction of social and economic system behavior. The following are assignment and personal projects that emerged from this course. 
+
+1. I modele the connection between cynicism amongst young people on the political interest of youth, and the potential effects of an educational program based on trends observed in current literature on the barriers to youth engagement in politics. The model emulates the spread of cynicism between individuals and the impacts of an educational intervention on the reduction of cynicism in a network with small-world properties. https://github.com/smerner/cs166/blob/621f0daab0e5ef8628f11eeab38f6fd5d9c4446f/politicalint_cynicism.ipynb 
+
+2. This collaborative project simulated two different strategies for an elevator to function within a building, and compared the efficiencies of the strategies. 
